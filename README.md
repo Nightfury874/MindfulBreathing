@@ -5,6 +5,7 @@ Welcome to the **Breathing Exercise Webpage**—a minimalist and immersive web a
 ## Overview
 
 This web application provides a serene environment where you can perform breathing exercises accompanied by a dynamic starfield background that reacts to your breathing patterns. The visual elements are designed to enhance relaxation and focus, making it a perfect tool for stress relief and meditation.
+![Total Lines](https://img.shields.io/endpoint?url=https://Nightfury874.github.io/MindfulBreathing/cloc.json&style=for-the-badge)
 
 ## Features
 
