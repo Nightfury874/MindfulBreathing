@@ -104,6 +104,6 @@ If you're interested in contributing, please follow these steps:
     ```
 4. **You know the rest cmon, I am not writing these steps**
 
-##CONTACT
+## CONTACT
 You may get in touch with me at
 niharjyotibasisth@gmail.com
