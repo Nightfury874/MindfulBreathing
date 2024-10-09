@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Breathing Exercise</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Starfield Canvas -->
+  <canvas id="starfield"></canvas>
+
+  <!-- Welcome Screen -->
+  <div id="welcome-screen">
+    <button id="start-button">Welcome</button>
+  </div>
+
+  <!-- Breathing Exercise Screen -->
+  <div id="exercise-screen" style="display: none;">
+    <p id="instruction">Press and hold the circle while breathing in.</p>
+    <div id="circle-container">
+      <div id="circle"></div>
+      <div id="timer">0.00s</div>
+    </div>
+    <button id="end-session">End Session</button>
+  </div>
+
+  <!-- Report Screen -->
+  <div id="report-screen" style="display: none;">
+    <div id="report-card">
+      <h2>Breathing Session Report</h2>
+      <p id="total-time"></p>
+      <p id="total-breaths"></p>
+      <p id="average-breath-in"></p>
+      <a id="download-report" download="breathing_report.png">Download Report?</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
