@@ -97,3 +97,13 @@ If you're interested in contributing, please follow these steps:
 
    ```bash
    git clone https://github.com/your-username/breathing-exercise-webpage.git
+    ```
+3. **Create a New Branch**:   Create a branch for your feature or bug fix.0
+    ```bash
+    git checkout -b feature-name
+    ```
+4. **You know the rest cmon, I am not writing these steps**
+
+##CONTACT
+You may get in touch with me at
+niharjyotibasisth@gmail.com
